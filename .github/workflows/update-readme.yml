@@ -1,0 +1,37 @@
+name: Update Profile README Activity & WakaTime
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update Recent GitHub Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'docs: update recent github activity'
+          MAX_LINES: 5
+
+      - name: Update WakaTime Stats
+        uses: anmol098/waka-readme-stats@master
+        continue-on-error: true
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_OS: "false"
+          SHOW_PROJECTS: "true"
+          SHOW_TIME: "true"
+          SHOW_TOTAL: "true"
+          SHOW_TITLE: "false"
