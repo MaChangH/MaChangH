@@ -28,14 +28,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MaChangH&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" width="100%" />
-</div>
-
----
-
 ### 📊 GitHub Profile Summary & Stats
 
 <div align="center">
