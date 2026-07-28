@@ -14,31 +14,37 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics Graph
+### 📊 GitHub Activity & Commits Graph (React Cyan Theme)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaChangH&theme=tokyonight" width="100%" alt="MaChangH Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaChangH&theme=react&hide_border=true" width="100%" alt="MaChangH Activity Graph" />
 </div>
 
 <br/>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaChangH&theme=tokyonight" width="100%" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaChangH&theme=tokyonight" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaChangH&theme=tokyonight" width="100%" />
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Skillset
+### 💻 Most Used Languages & Core Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,cpp,ts,bash,docker,postgres,redis,linux,git,github,vscode,ubuntu" />
+
+| Language | Percentage | Primary Stack & Focus |
+| :--- | :--- | :--- |
+| 🦀 **Rust** |  **42%** | High-frequency trading engines & Solana smart contracts |
+| 🐍 **Python** |  **36%** | AI Agent orchestrators, data pipelines & quantitative analysis |
+| 📘 **TypeScript** |  **14%** | Web apps, MCP servers & API integrations |
+| ⚡ **C++ / Shell** |  **8%** | System utilities, shell automation & performance components |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=rust,python,cpp,ts,bash,docker,postgres,redis,linux,git,github,vscode,ubuntu" />
 </div>
 
 ---
