@@ -36,17 +36,17 @@
 
 ---
 
-### 📊 GitHub Activity & Streak Stats
+### 📊 GitHub Profile Summary & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaChangH&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaChangH&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaChangH&theme=tokyonight" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaChangH&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaChangH&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaChangH&theme=tokyonight" width="48%" />
 </div>
 
 ---
