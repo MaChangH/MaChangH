@@ -1,53 +1,57 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20MaChangH!&fontSize=50&animation=fadeIn" width="100%"/>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MaChangH.MaChangH" alt="visitor badge" />
-</div>
-
-<br/>
+# 👨‍💻 MaChangH
 
 > **AI Engineering & Quantitative Trading Systems**  
 > Building high-performance trading bots, AI agent orchestrators, and scalable system infrastructure.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 📋 Currently Working On
 
-#### Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-#### Systems & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- [x] **pi-conductor** — Task-based model routing & Phase orchestration engine.
+- [x] **binance-hft** — High-frequency quantitative trading strategies & order execution.
+- [x] **solana-gmgn** — Solana DEX trading bot & Smart Money tracker.
+- [ ] **mcp-hub** — Modular MCP server integration & agent toolchain.
 
 ---
 
-### 📊 GitHub Profile Summary & Stats
+### 📊 GitHub Activity & Metrics Graph
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaChangH&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaChangH&theme=tokyonight" width="100%" alt="MaChangH Activity Graph" />
 </div>
 
 <br/>
 
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaChangH&theme=tokyonight" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaChangH&theme=tokyonight" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack & Skillset
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaChangH&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaChangH&theme=tokyonight" width="48%" />
+  <img src="https://skillicons.dev/icons?i=python,rust,cpp,ts,bash,docker,postgres,redis,linux,git,github,vscode,ubuntu" />
 </div>
 
 ---
 
-### ⚡ Main Focus Areas
-- 🤖 **AI Agents & Orchestration**: Building multi-agent workflows and LLM orchestration tools.
-- 📈 **Automated Trading Systems**: Developing HFT & quantitative trading strategies on Binance and Solana.
-- 🛠️ **System Architecture**: Crafting reliable, decoupled backend components and developer tools.
+### 🚀 Key Repositories & Open Source Projects
+
+- 🤖 **[pi-conductor](https://github.com/MaChangH/pi-conductor)**: Task-based multi-model agent router and phase orchestrator.
+- 📈 **[binance-tradingview](https://github.com/MaChangH/binance-tradingview)**: Automated TradingView webhooks & Binance execution engine.
+- ⚡ **[hierarchical-ai-mcp](https://github.com/MaChangH/hierarchical-ai-mcp)**: Hierarchical AI system architecture MCP tools.
+- 🛠️ **[Launch-Multi-Agy](https://github.com/MaChangH/Launch-Multi-Agy)**: Parallel agent launcher & management utility.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+<div align="center">
+  <sub>Made with ❤️ by MaChangH</sub>
+</div>
